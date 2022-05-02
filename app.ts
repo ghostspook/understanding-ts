@@ -1,1 +1,1 @@
-console.log("Do something awesome!")
+console.log("Do something awesome. Yes!")
